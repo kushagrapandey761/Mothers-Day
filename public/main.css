@@ -40,4 +40,20 @@ video{
         font-size: 14px;
         margin: 10px;
     }
+    img{
+        width: 250px;
+        height: 200px;
+        position: relative;
+        left: 110px;
+    }
+    .Button{
+        position: relative;
+        left: 160px;
+    }
+    video{
+        position: relative;
+        width: 200px;
+        height: 200px;
+        left: 150px;
+    }
 }
