@@ -56,4 +56,7 @@ video{
         height: 200px;
         left: 150px;
     }
+    .heading{
+        text-align: right;
+    }
 }
