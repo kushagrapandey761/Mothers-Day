@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    color: #A91D3A;
+}
+body{
+    background-color: #151515;
+}
+p{
+    color: #EEEEEE;
+}
+img{
+    position: relative;
+    left: 400px;
+    top: 10px;
+}
+.Thanks{
+    position: relative;
+    top:20px;
+}
+.Button{
+    width: 831px;
+    position: relative;
+    top: 20px;
+    left: 680px;
+}
+button{
+    background-color: #ACE1AF;
+    color: #FF0080;
+    font-weight: bold;
+    height: 50px;
+}
+video{
+    position: relative;
+    top: 90px;
+    left: 240px;
+}
