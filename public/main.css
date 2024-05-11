@@ -70,4 +70,8 @@ video{
         left: 20px;
         right: 20px;
     }
+    .heading{
+        position: relative;
+        right: 50px;
+    }
 }
