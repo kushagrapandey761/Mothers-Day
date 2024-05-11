@@ -2,9 +2,7 @@
     text-align: center;
     color: #A91D3A;
 }
-body{
-    background-color: #151515;
-}
+
 p{
     color: #EEEEEE;
 }
@@ -36,27 +34,30 @@ video{
 }
 /* Styles for screens smaller than 600px */
 @media only screen and (max-width: 600px) {
-    body {
-        font-size: 14px;
-        margin: 10px;
+    body{
+        display: flex;
+    }
+    p{
+        font-size: 70px;
+    }
+    h1{
+        font-size: 100px;
+    }
+    .para{
+        width: 1300px;
+    }
+    button{
+        position: relative;
+        width: 500px;
+        height: 300px;
+        font-size: 50px;
+        right: 300px;
     }
     img{
-        width: 250px;
-        height: 200px;
-        position: relative;
-        left: 110px;
-    }
-    .Button{
-        position: relative;
-        left: 160px;
+        left: 300px;
     }
     video{
-        position: relative;
-        width: 200px;
-        height: 200px;
-        left: 150px;
-    }
-    .heading{
-        text-align: center;
+        width: 1300px;
+        left: 10px;
     }
 }
