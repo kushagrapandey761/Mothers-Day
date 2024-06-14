@@ -12,7 +12,7 @@ function App()
     </div>
     <Description/>
     <Image/>
-    <Thanks/>
+    {/* <Thanks/> */}
     {/* <Button/> */}
     </div>;
 }
