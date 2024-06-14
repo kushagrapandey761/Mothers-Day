@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from 'react-dom';
 function Description(){
-    return <div className="para"><p>On this special day dedicated to mothers, let's take a moment to celebrate the incredible women who have shaped our lives with their love, guidance, and unwavering support. Mothers are the embodiment of strength, resilience, and boundless love, nurturing us through every stage of life with patience, kindness, and a heart full of joy. Their presence in our lives is a beacon of hope, a source of comfort, and a testament to the power of a mother's love. This Mother's Day, let's express our deepest gratitude for all they do, not just for us, but for everyone whose lives they touch. Happy Mother's Day to all the mothers out there, may your day be filled with warmth, happiness, and the love you so richly deserve.</p></div>;
+    return <div className="para"><p>To the Best Mom in the World: <br/><br/>Happy Birthday, Mom! Your love, care, and endless support have been my guiding light. On this special day, I want you to know how much you mean to me. You are not just my mother; you are my best friend and my inspiration. I hope your day is filled with the same joy and happiness you bring into my life every day. I love you more than words can express. Here’s to celebrating the incredible person you are!</p></div>;
 }
 export default Description;

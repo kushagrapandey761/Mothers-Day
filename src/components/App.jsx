@@ -8,12 +8,12 @@ function App()
 {
     return <div>
     <div className="heading">
-    <h1>Happy Mother's Day</h1>
+    <h1>Happy Birthday</h1>
     </div>
     <Description/>
     <Image/>
     <Thanks/>
-    <Button/>
+    {/* <Button/> */}
     </div>;
 }
 export default App;
