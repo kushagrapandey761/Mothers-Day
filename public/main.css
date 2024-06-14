@@ -62,8 +62,9 @@ video{
         right: 200px;
     }
     img{
-        left: 270px;
-        width: 900px;
+        height: 100%;
+        left: 450px;
+        width: 500px;
         height: 700px;
     }
     video{
